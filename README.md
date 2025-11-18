@@ -40,7 +40,8 @@ HIGH PASS FILTER
 ![WhatsApp Image 2025-11-18 at 18 25 17_5a633411](https://github.com/user-attachments/assets/31f68b35-b32e-4707-85f5-ab60eac07a6a)
 
 ## GRAPH: HIGH PASS FILTER
-![WhatsApp Image 2025-11-18 at 18 25 18_094dcce2](https://github.com/user-attachments/assets/40727124-71fe-4df8-af83-0d4db31f7549)
+![WhatsApp Image 2025-11-18 at 18 33 25_0c775fab](https://github.com/user-attachments/assets/8a53c50d-0134-4597-bc11-3ff3b34df055)
+
 
 ## DESIGN:LPF & HPF
 Given: fH = 1 KHz = 1/ (2πRC)
